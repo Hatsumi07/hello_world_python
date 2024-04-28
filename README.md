@@ -18,4 +18,4 @@
 
 # Useful Websites
 
-* [Web Site Name](http://w3schools.com)
+* [W3schools](http://w3schools.com)
